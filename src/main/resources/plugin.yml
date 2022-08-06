@@ -1,0 +1,10 @@
+name: customItems
+main: dev.crunchy.customitems.CustomItems
+version: 1.0.0
+author: LoL_Crunchy
+commands:
+  customitems:
+    aliases:
+      - customitem
+      - citem
+      - customi
